@@ -17,6 +17,12 @@
   <a href="https://twitter.com/Flanker1916">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+   <a href="mailto:shyamp665@gmail.com">
+   <img alt="Shyam" src="https://img.shields.io/badge/-coding.shyam-pink?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shyam6653@gmail.com" />
+ </a>
+   <a href="https://github.com/Flanker-shyam">
+   <img alt="Shyam" src="https://img.shields.io/github/followers/Flanker-shyam?label=follow&style=social" />
+ </a>   
 </div>
 
   <div align="center">
@@ -29,7 +35,8 @@
   <div align="center">
     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
   </div>
-  ---
+  <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
 
 ### :technologist: About Me :
   
@@ -42,35 +49,70 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-sunder19/)
   
-  ---
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
 
 ### :hammer_and_wrench: Languages and Tools :
+  <p align="center">
+     <code> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;</code>
+ <code> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;</code>
+<code> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;</code>
+<code><img height="50" src="https://freepngimg.com/download/java/5-2-java-png-clipart.png"></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;</code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+<code><img height="50" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png"></code>
+<code><img height="50" src="https://cdn.imgbin.com/21/11/12/imgbin-mysql-logo-database-join-portable-network-graphics-table-fYjBwJzJKBWt9RtriTD0EiXZU.jpg">
+</code>
+</p>
+
+ <h2 align="center">Skills</h2>
+
+<p align="center">
+  <a href="https://img.shields.io/badge/Webdev-★★★★★★-yellow">
+   <img alt="Webdev-★★★★★-yellow" src="https://img.shields.io/badge/Webdev-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/Java-★★★★★★-yellow">
+   <img alt="Java-★★★★★-yellow" src="https://img.shields.io/badge/Java-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/Node-★★★★★★-yellow">
+   <img alt="Node-★★★★★-yellow" src="https://img.shields.io/badge/Node-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow">
+   <img alt="ProblemSolving-★★★★★-yellow" src="https://img.shields.io/badge/ProblemSolving-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/DataStructure-★★★★★-yellow">
+   <img alt="DataStructure-★★★★★-yellow" src="https://img.shields.io/badge/DataStructure-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/CPP-★★★★★-yellow">
+   <img alt="CPP-★★★★★-yellow" src="https://img.shields.io/badge/CPP-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/C-★★★★★-yellow">
+   <img alt="C-★★★★★-yellow" src="https://img.shields.io/badge/C-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/HTML-★★★★☆-brightgreen">
+   <img alt="HTML-★★★★☆-brightgreen" src="https://img.shields.io/badge/HTML-★★★★☆-brightgreen" />
+  </a>
+  <a href="https://img.shields.io/badge/CSS-★★★☆☆-brightgreen">
+   <img alt="CSS-★★★☆☆-brightgreen" src="https://img.shields.io/badge/CSS-★★★☆☆-brightgreen" />
+  </a>
+  <a href="https://img.shields.io/badge/Javascript-★★★☆☆-red">
+   <img alt="Javascript-★★★☆☆-red" src="https://img.shields.io/badge/Javascript-★★★☆☆-red" />
+   </a>
+</p>
   
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-  
-  ---
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
 
 ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Flanker-shyam&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flanker-shyam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ <h2 align="center">Stats</h2>
 
-  ---
+| <a href="https://github.com/Flanker-shyam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Flanker-shyam&count_private=true&theme=react&show_icons=true" alt="Shyam's github stats" /></a> | <a href="https://github.com/Flanker-shyam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flanker-shyam&layout=compact&theme=react" /></a> |
+| ------------- | ------------- |
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ### :writing_hand: Blog Posts :
   <!-- BLOG-POST-LIST:START -->
