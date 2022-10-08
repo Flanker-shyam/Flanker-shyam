@@ -40,7 +40,7 @@
 
 - :zap: In my free time, I solve problems on Codeforces and Leetcode and read tech articles related to cyber security.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-sunder19/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/shyam-sunder19/)
   
   ---
 
