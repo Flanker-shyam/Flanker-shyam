@@ -14,4 +14,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: Flanker-shyam/blog-post-workflow@v1
         with:
-          feed_list: "https://sunderreviews.blogspot.com/"
+          feed_list: "https://dev.to/flankershyam"
