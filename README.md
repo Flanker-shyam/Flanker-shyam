@@ -32,6 +32,7 @@
   hey, I'm Shyam!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h2 align="center">A passionate Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> from India</h2>
   <div align="center">
     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
   </div>
@@ -40,7 +41,6 @@
 
 ### :technologist: About Me :
   
-  I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m Studying MCA in NIT Jamshedpur and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
