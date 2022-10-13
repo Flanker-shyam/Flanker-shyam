@@ -29,7 +29,7 @@
 <img src="https://komarev.com/ghpvc/?username=Flanker-shyam&style=flat-square&color=blue" alt=""/>
   </div>
 <h1 align="center">
-  hey, I'm Shyam! <a[![@flanker's Holopin board](https://holopin.me/flanker)](https://holopin.io/@flanker)></a>
+  hey, I'm Shyam! <a href="[![@flanker's Holopin board](https://holopin.me/flanker)](https://holopin.io/@flanker)"></a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h2 align="center">A passionate Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> from India</h2>
