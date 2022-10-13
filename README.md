@@ -7,29 +7,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/shyam-sunder19/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/shyam_prajapati19/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/Flanker1916">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-   <a href="mailto:shyamp665@gmail.com">
-   <img alt="Shyam" src="https://img.shields.io/badge/-coding.shyam-pink?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shyam6653@gmail.com" />
- </a>
-   <a href="https://github.com/Flanker-shyam">
-   <img alt="Shyam" src="https://img.shields.io/github/followers/Flanker-shyam?label=follow&style=social" />
- </a>   
-</div>
-
-  <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Flanker-shyam&style=flat-square&color=blue" alt=""/>
-  </div>
 <h1 align="center">
-  hey, I'm Shyam!
+  Hey, I'm Shyam!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 <!--  - : [![@flanker's Holopin board](https://holopin.me/flanker)](https://holopin.io/@flanker) -->
@@ -121,4 +100,24 @@
   <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
     
-<div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/shyam-sunder19/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/shyam_prajapati19/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/Flanker1916">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="mailto:shyamp665@gmail.com">
+   <img alt="Shyam" src="https://img.shields.io/badge/-coding.shyam-pink?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shyam6653@gmail.com" />
+ </a>
+   <a href="https://github.com/Flanker-shyam">
+   <img alt="Shyam" src="https://img.shields.io/github/followers/Flanker-shyam?label=follow&style=social" />
+ </a>   
+</div>
+
+  <div align="center">
+<img src="https://komarev.com/ghpvc/?username=Flanker-shyam&style=flat-square&color=blue" alt=""/>
+  </div>
