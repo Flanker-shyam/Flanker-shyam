@@ -85,6 +85,13 @@
    </a>
 </p>
   
+  <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
+
+<h2 align="center">Projects</h2>
+
+| ![Shyam's github stats](https://github-readme-stats.vercel.app/api/pin/?username=Flanker-shyam&repo=moviesAPI&cache_seconds=86400&theme=vision-friendly-dark) ![Shyam's github stats](https://github-readme-stats.vercel.app/api/pin/?username=Flanker-shyam&repo=login_Backend&cache_seconds=86400&theme=vision-friendly-dark) | ![Shyam's github stats](https://github-readme-stats.vercel.app/api/pin/?username=Flanker-shyam&repo=quotebook&cache_seconds=86400&theme=vision-friendly-dark) ![Shyam's github stats](https://github-readme-stats.vercel.app/api/pin/?username=Flanker-shyam&repo=emojipedia&cache_seconds=86400&theme=vision-friendly-dark) | 
+| ------------- | ------------- |
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 
