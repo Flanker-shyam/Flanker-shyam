@@ -29,7 +29,7 @@
 
 - :zap: In my free time, I solve problems on Codeforces and Leetcode and read tech articles related to cyber security.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-sunder19/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-sunder19/)
   
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -90,6 +90,7 @@
 
 ### :fire: My Stats :
  <h2 align="center">Stats</h2>
+  <a href="https://streak-stats.demolab.com/?user=Flanker-shyam"><img align="center" src="https://streak-stats.demolab.com/?user=Flanker-shyam&theme=highcontrast" alt="Shyam's github stats" /></a>
 
 | <a href="https://github.com/Flanker-shyam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Flanker-shyam&count_private=true&theme=react&show_icons=true" alt="Shyam's github stats" /></a> | <a href="https://github.com/Flanker-shyam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flanker-shyam&layout=compact&theme=react" /></a> |
 | ------------- | ------------- |
@@ -100,7 +101,7 @@
   <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
     
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shyam-sunder19/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -120,4 +121,37 @@
 
   <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Flanker-shyam&style=flat-square&color=blue" alt=""/>
-  </div>
+  </div> -->
+
+  <h2 align="center">Connect with me</h2>
+
+<p align="center">
+  
+ <a href="https://linkedin.com/in/Flanker-shyam">
+   <img alt="Shyam" src="https://img.shields.io/badge/-Shyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/Flanker-shyam/" />
+ </a>
+  
+ <a href="https://dev.to/flankershyam">
+   <img alt="Shyam" src="https://img.shields.io/badge/-Shyam-black?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/flankershyam" />
+ </a>
+  
+ <a href="https://www.instagram.com/shyam_prajapati19">
+   <img alt="Shyam" src="https://img.shields.io/badge/-Shyam-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/shyam_prajapati19/" />
+ </a>
+
+ </a>
+ <a href="mailto:shyamp665@gmail.com">
+   <img alt="Shyam" src="https://img.shields.io/badge/-shyam-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shyamp665@gmail.com" />
+ </a>
+ 
+<!--  <a href="https://kt-shashi.github.io/">
+   <img alt="Shashi" src="https://img.shields.io/badge/-WebsiteShashi-olive?style=flat-square&logo=Website&logoColor=white&link=https://kt-shashi.github.io" />
+ </a> -->
+ 
+ <a href="https://github.com/Flanker-shyam">
+   <img alt="Shyam" src="https://img.shields.io/github/followers/Flanker-shyam?label=follow&style=social" />
+ </a>   
+ 
+</p>
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
