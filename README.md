@@ -89,8 +89,10 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-
 ### :fire: My Stats :
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Flanker-shyam" alt="Flanker-shyam" /></a> </p>
+
  <h2 align="center">Stats</h2>
   <a href="https://streak-stats.demolab.com/?user=Flanker-shyam"><img align="center" src="https://streak-stats.demolab.com/?user=Flanker-shyam&theme=highcontrast" alt="Shyam's github stats" /></a>
 
