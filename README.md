@@ -13,7 +13,7 @@
   </h1>
 <!--  - : [![@flanker's Holopin board](https://holopin.me/flanker)](https://holopin.io/@flanker) -->
  
-<h2 align="center">A passionate Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> from India</h2>
+<h2 align="center">A passionate Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> from India</h2>
    <a href = "https://holopin.io/@flanker"><img src="https://holopin.me/flanker" alt="@flanker's Holopin board"/></a>
 <!--   <div align="center">
     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
@@ -23,7 +23,7 @@
 
 ### :technologist: About Me :
   
-- :telescope: I’m Studying MCA in NIT Jamshedpur and contributing to frontend and backend for building web applications.
+- :telescope: I’m Studying MCA at NIT Jamshedpur and contributing to full stack for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
