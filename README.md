@@ -22,8 +22,10 @@
 <!-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d98d84b6-0262-497e-85f1-a9fb4852c8a5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
 
 ### :technologist: About Me :
+
+- 💻: I am a full stack developer transitioning into backend and DevOps.
   
-- :telescope: I’m Studying MCA at NIT Jamshedpur and contributing to full stack for building web applications.
+- :telescope: I’ve studied MCA from NIT Jamshedpur.
 
 - :seedling: Exploring Technical Content Writing.
 
