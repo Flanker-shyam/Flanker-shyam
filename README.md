@@ -47,7 +47,7 @@
 </code>
 </p>
 
- <h2 align="center">Skills</h2>
+<!-- <h2 align="center">Skills</h2>
 
 <p align="center">
   <a href="https://img.shields.io/badge/Webdev-★★★★★★-yellow">
@@ -80,7 +80,7 @@
   <a href="https://img.shields.io/badge/Javascript-★★★☆☆-red">
    <img alt="Javascript-★★★☆☆-red" src="https://img.shields.io/badge/Javascript-★★★☆☆-red" />
    </a>
-</p>
+</p> -->
   
   <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
 
@@ -149,10 +149,6 @@
  <a href="mailto:shyamp665@gmail.com">
    <img alt="Shyam" src="https://img.shields.io/badge/-shyam-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shyamp665@gmail.com" />
  </a>
- 
-<!--  <a href="https://kt-shashi.github.io/">
-   <img alt="Shashi" src="https://img.shields.io/badge/-WebsiteShashi-olive?style=flat-square&logo=Website&logoColor=white&link=https://kt-shashi.github.io" />
- </a> -->
  
  <a href="https://github.com/Flanker-shyam">
    <img alt="Shyam" src="https://img.shields.io/github/followers/Flanker-shyam?label=follow&style=social" />
