@@ -23,13 +23,13 @@
 
 ### :technologist: About Me :
 
-- 💻: I am a full stack developer transitioning into backend and DevOps.
+- 💻: I am a Backend developer from India.
   
 - :telescope: I’ve studied MCA from NIT Jamshedpur.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Codeforces and Leetcode and read tech articles related to cyber security.
+- :zap: I love exploring linux operating systems, reading High level system designs and tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-sunder19/)
   
